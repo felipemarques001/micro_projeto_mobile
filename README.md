@@ -1,16 +1,15 @@
 # micro_projeto_mobile
 
-A new Flutter project.
+Um pequeno projeto passado como atividade pelo professor Héldon responsável por lecionar a cadeira de desenvolvimento mobile
 
-## Getting Started
+## Imagens das telas
 
-This project is a starting point for a Flutter application.
+### Splash Screen
+![splash_screen](https://github.com/felipemarques001/micro_projeto_mobile/assets/82411791/b92e78ea-e393-4af7-8842-93c334d418d3)
 
-A few resources to get you started if this is your first Flutter project:
+### Página de Login
+![login_page](https://github.com/felipemarques001/micro_projeto_mobile/assets/82411791/44b7d6e8-d716-4a57-a9c5-23bd94f0064e)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Página Home
+![home_page](https://github.com/felipemarques001/micro_projeto_mobile/assets/82411791/9c4a0d6d-846a-4fa5-8fdc-66923f60ebf5)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
